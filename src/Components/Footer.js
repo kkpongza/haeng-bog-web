@@ -1,5 +1,4 @@
 import React from "react";
-import Logo from "../Assets/Logo.svg";
 import { BsTwitter } from "react-icons/bs";
 import { SiLinkedin } from "react-icons/si";
 import { BsYoutube } from "react-icons/bs";
@@ -9,8 +8,8 @@ const Footer = () => {
   return (
     <div className="footer-wrapper">
       <div className="footer-section-one">
-        <div className="footer-logo-container">
-          <img src={Logo} alt="" />
+        <div className="footer-brand-container">
+          <h2 style={{color: '#D62246', fontSize: 40}}>Haeng-bog</h2>
         </div>
         <div className="footer-icons">
           <BsTwitter />
