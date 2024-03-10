@@ -1,1 +1,3 @@
-A simple landing page - first designed in figma and then coded in React. Hope you like it.
+# Restaurant-Web-Design By React.js
+
+## Click this link to see the result
