@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/haeng-bog-web/static/css/main.7875362f.css",
+    "main.js": "/haeng-bog-web/static/js/main.731f32f8.js",
+    "static/media/korean-bbq-background.png": "/haeng-bog-web/static/media/korean-bbq-background.4491629e5ebb60acd237.png",
+    "static/media/HeroGrill.png": "/haeng-bog-web/static/media/HeroGrill.95fa514fb89a7daa4dfa.png",
+    "static/media/Banner-Background.png": "/haeng-bog-web/static/media/Banner-Background.66c59dd18e33641b073d.png",
+    "index.html": "/haeng-bog-web/index.html",
+    "main.7875362f.css.map": "/haeng-bog-web/static/css/main.7875362f.css.map",
+    "main.731f32f8.js.map": "/haeng-bog-web/static/js/main.731f32f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7875362f.css",
+    "static/js/main.731f32f8.js"
+  ]
+}
