@@ -9,7 +9,7 @@ const Footer = () => {
     <div className="footer-wrapper">
       <div className="footer-section-one">
         <div className="footer-brand-container">
-          <h2 style={{color: '#D62246', fontSize: 40}}>Haeng-bog</h2>
+          <h2 style={{color: '#fff', fontSize: 40, cursor: 'pointer'}}>Haeng-bog</h2>
         </div>
         <div className="footer-icons">
           <BsTwitter />

@@ -197,20 +197,23 @@ nav {
   padding: 0.5rem 1rem;
 }
 .footer-wrapper {
-  margin: 6rem 0rem;
+  /* margin: 6rem 0rem; */
   display: flex;
-  margin-top: 10rem;
+  margin-top: 8rem;
+  background-color: #D62246;
+  padding: 40px;
 }
 .footer-logo-container {
   max-width: 110px;
 }
 .footer-icons {
   margin-top: 2.5rem;
+  cursor: pointer;
 }
 .footer-icons svg {
   font-size: 1.5rem;
   margin-right: 1.25rem;
-  color: #585858;
+  color: #fff;
 }
 /* .footer-section-one {
   border: 2px solid blue;
@@ -228,7 +231,7 @@ nav {
 .footer-section-columns span {
   margin: 0.25rem 0rem;
   font-weight: 600;
-  color: #4c4c4c;
+  /* color: #4c4c4c; */
   cursor: pointer;
 }
 .testimonial-section-bottom {
@@ -248,7 +251,7 @@ nav {
 }
 .testimonial-section-bottom p {
   font-weight: 700;
-  color: #515151;
+  /* color: #515151; */
   max-width: 500px;
   font-size: 1.1rem;
   margin: 2rem 0rem;
@@ -426,4 +429,8 @@ nav {
   .about-background-image-container {
     display: none;
   }
+}
+
+.footer-section-two {
+  color: #fff;
 }
